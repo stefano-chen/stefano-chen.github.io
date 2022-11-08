@@ -9,13 +9,13 @@
     z-index: 100;
 }
 
-.topnav a {
+.topnav a{
     float: right;
     color: #f2f2f2;
     text-align: center;
-    padding: 1.45vw 1.5vw;
+    padding: 0.8vw 2vw;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 2vw;
   }
   
 .topnav a:hover {
@@ -45,4 +45,24 @@ p{
     font-family:'Courier New', Courier, monospace;
     margin-top: 6vw;
     font-size: 2.5vw;
+}
+
+.topnav img{
+    float: left;
+    width: 2.5vw;
+    height: 2.5vw;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 0px 1.3vw;
+    text-decoration: none;
+    margin-top: 0.7vw;
+    font-size: 2vw;
+}
+
+img {
+    width: 50vw;
+    height: 20vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
 }
