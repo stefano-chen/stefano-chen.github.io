@@ -66,3 +66,28 @@ img {
     margin-left: auto;
     margin-right: auto
 }
+
+.logo{
+    width: 5vw;
+    height: 5vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.click{
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 0.8vw 3vw;
+    text-decoration: none;
+    font-size: 2vw;
+}
+
+.cdiv{
+    text-align: center;
+    margin: auto;
+    margin-top: 4.5vw;
+    width: 23vw;
+    height: 10vw;
+}
